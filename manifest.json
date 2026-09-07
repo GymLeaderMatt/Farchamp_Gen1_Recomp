@@ -1,0 +1,18 @@
+{
+  "id": "farchamp_gen1_recomp",
+  "name": "Farchamp Gen1 Recomp",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "New Pokemon",
+  "priority": 100,
+  "permissions": [],
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "experimental": false,
+  "description": "Adds the fusion of Farfetch'd and Machamp to the gen 1 recomp."
+}
