@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Untitled-1-Recovered" src="https://github.com/user-attachments/assets/4a9dc69c-c318-4b52-9ece-8c2460090645" />
+
 # Farchamp:
 - Adds in the fusion of Farfetch'd and Machamp into the game.
 - Fighting / Normal typing.
@@ -57,5 +59,3 @@
 | **Cut** | HM01 | Normal |
 | **Fly** | HM02 | Flying |
 | **Strength** | HM04 | Normal |
-
-<img width="1920" height="1080" alt="Untitled-1-Recovered" src="https://github.com/user-attachments/assets/4a9dc69c-c318-4b52-9ece-8c2460090645" />
