@@ -5,5 +5,11 @@
 
 # Stats:
 | STAT | NUMBER | FROM WHO?|
-|---|---|---| | **HP** | 90 | Machamp | | **Attack** | 130 | Machamp | | **Defense** | 55 | Machamp | | **SPC** | 62 | Machamp | | **SPD** | 60 | Machamp | | **Total** | 397 | --- |
+|---|---|---|
+| **HP** | 90 | Machamp | 
+| **Attack** | 130 | Machamp | 
+| **Defense** | 55 | Machamp | 
+| **SPC** | 62 | Machamp | 
+| **SPD** | 60 | Machamp | 
+| **Total** | 397 | --- |
 
