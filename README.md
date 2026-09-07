@@ -55,8 +55,7 @@
 | **Rock Slide** | TM48 | Rock |
 | **Substitute** | TM50 | Normal |
 | **Cut** | HM01 | Normal |
-
-<img width="1920" height="1080" alt="Untitled-1-Recovered" src="https://github.com/user-attachments/assets/4a9dc69c-c318-4b52-9ece-8c2460090645" />
-
 | **Fly** | HM02 | Flying |
 | **Strength** | HM04 | Normal |
+
+<img width="1920" height="1080" alt="Untitled-1-Recovered" src="https://github.com/user-attachments/assets/4a9dc69c-c318-4b52-9ece-8c2460090645" />
